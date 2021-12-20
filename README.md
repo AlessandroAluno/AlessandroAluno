@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlessandroAluno
 - 👀 I’m interested in Become a better programmer.
-- 🌱 I’m currently learning Ruby on rails
+- 🌱 I’m currently learning NodeJS.
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me alessandrof@id.uff.br
 
